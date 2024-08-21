@@ -1,10 +1,10 @@
 <?php
 
-  $x = "nome";
+  $x = "nome"; // valor de nome
 
   echo "$x <br>";
 
-  $$x = "Gabriel";
+  $$x = "Gabriel"; // var com o nome de x (nome), com valor de Gabriel
 
   echo "$nome <br>";
   
