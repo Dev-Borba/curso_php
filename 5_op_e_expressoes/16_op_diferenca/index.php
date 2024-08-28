@@ -14,3 +14,11 @@
   if(false != "teste") {
     echo "Testando diferença 3<br>";
   }
+
+  if(3 != "3") {
+    echo "Testando diferença 4<br>";
+  }
+
+  if(3 != "4") {
+    echo "Testando diferença 5<br>";
+  }
