@@ -27,11 +27,10 @@ Temos aqui que utilizar o echo para garantir a impressão dos valores, e consequ
 
 # Indicações de Livros
 
-- Use A Cabeça! PHP e MySQLUse A Cabeça! PHP e MySQL
+- Use A Cabeça! PHP e MySQL
 
 - Desenvolvendo Websites com PHP
 
 
-Bom estudo para vocês! 🙂
 
  
